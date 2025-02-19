@@ -1,7 +1,7 @@
-Matería:CodSofSisln.
-Fecha:19/02/25|Grupo 2° "J".
-Alumno:Erick Otoniel Soto Hdez.
-Nombre de la practica:Tuplas.
+#Matería:CodSofSisln.
+#Fecha:19/02/25|Grupo 2° "J".
+#Alumno:Erick Otoniel Soto Hdez.
+#Nombre de la practica:Tuplas.
 
 
 #!/usr/bin/env python
