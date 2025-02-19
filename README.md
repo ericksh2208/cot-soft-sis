@@ -3,6 +3,6 @@ En esta materia espero aprender mucho sobre programación y tambien sobre comput
 Quiero aprender a usar mejor Jupyter y sosbre codificación.
 Me gustaría aprender a poner más antención en las clases, no solo en CodSofSisln.
 
-¡[Banner](https://files.catbox.moe/0frgsi.png)
+![Banner](https://files.catbox.moe/0frgsi.png)
 
 
