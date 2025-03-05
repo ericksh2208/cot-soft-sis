@@ -25,4 +25,10 @@ print("tu apellido invertido es ",apellido[::-1])
 #que le diga el año en el que puede llegar a tener
 #100 años de edad
 
+nombre = input("¿Cuál es tu nombre? ")
+edad = int(input("¿Cuántos años tienes? "))
+año_actual = 2025
+año_100 = año_actual - edad + 100
+print(f"{nombre}, tendrás 100 años en el año {año_100}.")
+
 
