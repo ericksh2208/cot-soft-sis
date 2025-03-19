@@ -2,6 +2,8 @@
 En esta materia espero aprender mucho sobre programación y tambien sobre computadoras.
 Quiero aprender a usar mejor Jupyter y sosbre codificación.
 Me gustaría aprender a poner más antención en las clases, no solo en CodSofSisln.
+
+
 ![image alt](https://github.com/ericksh2208/cot-soft-sis/blob/d9317e663ff1793a40d8c142d387eaa7be24c92a/codificacion.jpg)
 
 
