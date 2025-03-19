@@ -6,7 +6,7 @@ En esta materia, quiero mejorar mi forma de programar, escribiendo código más 
 Me interesa mucho aprender sobre programación orientada a objetos, depuración y control de versiones. Espero salir de esta materia con más confianza para desarrollar software funcional y bien estructurado. 😎
 
 
-![image alt](https://github.com/ericksh2208/cot-soft-sis/blob/3a62c4cce1a3c8803aa20d95252d261f8a88e80b/CODIFICACION%20DE%20SOFTWARE.jpg)
+![image alt](https://github.com/ericksh2208/cot-soft-sis/blob/f36852f4cb42ce71aefaa1980e85480168831df9/CODIFICACION%20DE%20SOFTWARE.jpg)
 
 
 
